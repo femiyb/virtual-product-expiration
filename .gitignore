@@ -1,0 +1,8 @@
+*.log
+*.zip
+*.DS_Store
+node_modules/
+vendor/
+.env
+.idea/
+__MACOSX/
